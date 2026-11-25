@@ -15,3 +15,6 @@ User lifecycle management, group-based access, and reviewing identity activity.
 
 ## Lab environment
 Completed in a personal test tenant using sample data. No production user information or credentials are included.
+## Evidence
+
+![SC-Finance-Users membership](sc-finance-users-member.png)
